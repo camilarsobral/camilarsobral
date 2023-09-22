@@ -41,7 +41,7 @@
 ## 🔠 Idiomas / Languages:
 * Português / Portuguese
 * Inglês Avançado / Advanced English
-* Francês Iniciante / Beginner French
+* Francês Básico / Basic French
 
 ## GitHub Stats
 
