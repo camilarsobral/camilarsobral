@@ -18,15 +18,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript&logoColor=ec63a1&color=%23f7f7f7)
 ![React](https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react&logoColor=ec63a1&color=%23f7f7f7)
 ![Node.js](https://img.shields.io/badge/node.JS-fff?style=for-the-badge&logo=nodedotjs&logoColor=ec63a1&color=%23f7f7f7)
-![Axios](https://img.shields.io/badge/axios-fff?style=for-the-badge&logo=axios&logoColor=ec63a1&color=%23f7f7f7)
-![Nodemon](https://img.shields.io/badge/nodemon-fff?style=for-the-badge&logo=nodemon&logoColor=ec63a1&color=%23f7f7f7)
-![Git](https://img.shields.io/badge/git-fff?style=for-the-badge&logo=git&logoColor=ec63a1&color=%23f7f7f7)
-![GitHub](https://img.shields.io/badge/github-fff?style=for-the-badge&logo=github&logoColor=ec63a1&color=%23f7f7f7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=ec63a1&color=%23f7f7f7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=mongodb&logoColor=ec63a1&color=%23f7f7f7)
 ![Express.js](https://img.shields.io/badge/express.js-fff?style=for-the-badge&logo=express&logoColor=ec63a1&color=%23f7f7f7)
-![Insomnia](https://img.shields.io/badge/insomnia-fff?style=for-the-badge&logo=insomnia&logoColor=ec63a1&color=%23f7f7f7)
-![Vercel](https://img.shields.io/badge/vercel-fff?style=for-the-badge&logo=vercel&logoColor=ec63a1&color=%23f7f7f7)
 
 
 ## 👩🏻‍🎓 Estou aprendendo / Currently learning:
