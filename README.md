@@ -1,8 +1,8 @@
 # Camila Sobral
 
-✨ Olá! Sou uma Desenvolvedora Full Stack de 28 anos nascida na cidade do Rio de Janeiro, atualmente residindo em João Pessoa, na Paraíba. Levo o "Hello World" a sério demais e meu sonho é viajar o mundo através da programação.
+✨ Olá! Sou uma Desenvolvedora Front-End de 28 anos nascida na cidade do Rio de Janeiro, atualmente residindo em João Pessoa, na Paraíba. Levo o "Hello World" a sério demais e meu sonho é viajar o mundo através da programação.
 
-✨ Hi! I'm a 28-year-old Full-Stack Developer, born and raised in Rio de Janeiro, currently based at Joao Pessoa, a city in northeastern Brazil. I take this "Hello World" thing way too seriously, so my dream is to travel the world through programming.
+✨ Hi! I'm a 28-year-old Front-End Developer, born and raised in Rio de Janeiro, currently based at Joao Pessoa, a city in northeastern Brazil. I take this "Hello World" thing way too seriously, so my dream is to travel the world through programming.
 
 ## 📲 Conecte-se comigo / Connect with me:
 
